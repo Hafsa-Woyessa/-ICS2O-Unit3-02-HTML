@@ -1,0 +1,19 @@
+.table,
+td {
+  border: 10px solid red;
+  margin: 20px;
+  padding: 10px;
+}
+.paragraph {
+ border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  color: DodgerBlue;
+}
+.img {
+  width: 200px;
+  padding-top: 30px;
+  margin: 20px;
+  background-color: lightblue;
+}
+
